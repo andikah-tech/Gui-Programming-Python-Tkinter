@@ -52,4 +52,3 @@ root.title("Login")
 # object
 app = Jm_login(master=root)
 root.mainloop()
-root.quit()
